@@ -1,0 +1,2062 @@
+[
+  {
+    "wikidata_id": "Q10737004",
+    "nume": "Bacău",
+    "email": "mailto:contactprimarie@primariabacau.ro",
+    "website": "https://municipiulbacau.ro",
+    "domeniu": "primariabacau.ro",
+    "lat": 46.583333333333,
+    "lon": 26.916666666667,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.primariabacau.ro"
+      }
+    ],
+    "spf": "v=spf1 +mx +a +ip4:84.232.181.61 -all",
+    "mx_ip": "84.232.181.61",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q33208",
+    "nume": "Caransebeș",
+    "email": "mailto:primaria.caransebes@gmail.com",
+    "website": "https://www.primaria-caransebes.ro",
+    "domeniu": "gmail.com",
+    "lat": 45.421388888889,
+    "lon": 22.221944444444,
+    "mx_records": [
+      {
+        "prioritate": 40,
+        "host": "alt4.gmail-smtp-in.l.google.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "108.177.125.26",
+    "tara": "TW",
+    "org": "AS15169 Google LLC",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q754730",
+    "nume": "Salonta",
+    "email": "mailto:primsal3@gmail.com",
+    "website": "https://salonta.net/ro/",
+    "domeniu": "gmail.com",
+    "lat": 46.8,
+    "lon": 21.65,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "alt1.gmail-smtp-in.l.google.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "192.178.213.27",
+    "tara": "NL",
+    "org": "AS15169 Google LLC",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q754733",
+    "nume": "Codlea",
+    "email": "mailto:contact@municipiulcodlea.ro",
+    "website": "http://www.primariacodlea.ro/",
+    "domeniu": "municipiulcodlea.ro",
+    "lat": 45.695833333333,
+    "lon": 25.449722222222,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "municipiulcodlea.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:89.37.143.243 ~all",
+    "mx_ip": "89.37.143.243",
+    "tara": "RO",
+    "org": "AS5606 GTS Telecom SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q756587",
+    "nume": "Dorohoi",
+    "email": "mailto:primariadorohoi@primariadorohoi.ro",
+    "website": "https://www.primariadorohoi.ro/",
+    "domeniu": "primariadorohoi.ro",
+    "lat": 47.959722222222,
+    "lon": 26.399722222222,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "alt1.aspmx.l.google.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "172.253.152.27",
+    "tara": "US",
+    "org": "AS15169 Google LLC",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q841511",
+    "nume": "Brad",
+    "email": "mailto:primar@primariabrad.ro",
+    "website": "http://www.primariabrad.ro/",
+    "domeniu": "primariabrad.ro",
+    "lat": 46.129444444444,
+    "lon": 22.79,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariabrad.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:85.9.27.5 +ip4:85.120.61.9 ~all",
+    "mx_ip": "85.120.61.9",
+    "tara": "RO",
+    "org": "AS5606 GTS Telecom SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q756583",
+    "nume": "Câmpina",
+    "email": "mailto:web@primariacampina.ro",
+    "website": "http://www.primariacampina.ro/",
+    "domeniu": "primariacampina.ro",
+    "lat": 45.128055555556,
+    "lon": 25.738333333333,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail01.primariacampina.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:89.42.218.73 a mx -all",
+    "mx_ip": "86.122.73.154",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q754729",
+    "nume": "Târnăveni",
+    "email": "mailto:office@primariatarnaveni.ro",
+    "website": "http://www.primariatarnaveni.ro/",
+    "domeniu": "primariatarnaveni.ro",
+    "lat": 46.329722222222,
+    "lon": 24.27,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primariatarnaveni.ro"
+      }
+    ],
+    "spf": "v=spf1 mx a ip4:195.225.140.18 ip4:188.214.156.147 ~all",
+    "mx_ip": "188.214.156.147",
+    "tara": "RO",
+    "org": "AS50667 NETPROTECT SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q46400",
+    "nume": "Suceava",
+    "email": "mailto:primsv@primariasv.ro",
+    "website": "https://www.primariasv.ro/",
+    "domeniu": "primariasv.ro",
+    "lat": 47.651388888889,
+    "lon": 26.255555555556,
+    "mx_records": [
+      {
+        "prioritate": 50,
+        "host": "mail.primariasv.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:81.196.52.234 include:_spf.google.com -all",
+    "mx_ip": "81.196.52.234",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q912235",
+    "nume": "Toplița",
+    "email": "mailto:secretariat@primariatoplita.ro",
+    "website": "http://www.toplita.info/",
+    "domeniu": "primariatoplita.ro",
+    "lat": 46.9918309,
+    "lon": 25.3708558,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx.spamexperts.com"
+      }
+    ],
+    "spf": "v=spf1 ip4:89.37.143.6 +a +mx +ip4:89.44.121.3 +ip4:185.250.105.53 +ip4:185.250.107.174 ~all",
+    "mx_ip": "149.13.75.27",
+    "tara": "DE",
+    "org": "AS16633 N-able Technologies, Inc.",
+    "provider": "foreign_DE"
+  },
+  {
+    "wikidata_id": "Q754728",
+    "nume": "Lupeni",
+    "email": "mailto:primaria@e-lupeni.ro",
+    "website": "https://primarialupeni.ro/",
+    "domeniu": "e-lupeni.ro",
+    "lat": 45.360277777778,
+    "lon": 23.238333333333,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "e-lupeni.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:85.120.16.2 +ip4:85.120.16.167 +include:_include.gazduire.ro ~all",
+    "mx_ip": "85.120.16.167",
+    "tara": "RO",
+    "org": "AS5606 GTS Telecom SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q837964",
+    "nume": "Vulcan",
+    "email": "mailto:primvulcan@yahoo.com",
+    "website": "http://www.vulcan-vj.ro/",
+    "domeniu": "yahoo.com",
+    "lat": 45.381111111111,
+    "lon": 23.291388888889,
+    "mx_records": [
+      {
+        "prioritate": 1,
+        "host": "mta6.am0.yahoodns.net"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "98.136.96.91",
+    "tara": "US",
+    "org": "AS36646 Yahoo Holdings Inc.",
+    "provider": "yahoo_us"
+  },
+  {
+    "wikidata_id": "Q46852",
+    "nume": "Iași",
+    "email": "mailto:cabinet.primar@primaria-iasi.ro",
+    "website": "https://www.primaria-iasi.ro/",
+    "domeniu": "primaria-iasi.ro",
+    "lat": 47.162222222222,
+    "lon": 27.588888888889,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primaria-iasi.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "82.77.24.51",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q756649",
+    "nume": "Băilești",
+    "email": "mailto:primariabailesti@gmail.com",
+    "website": "http://www.primariabailesti.ro",
+    "domeniu": "gmail.com",
+    "lat": 44.030833333333,
+    "lon": 23.3525,
+    "mx_records": [
+      {
+        "prioritate": 40,
+        "host": "alt4.gmail-smtp-in.l.google.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "108.177.125.27",
+    "tara": "TW",
+    "org": "AS15169 Google LLC",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q187945",
+    "nume": "Piatra-Neamț",
+    "email": "mailto:infopn@primariapn.ro",
+    "website": "https://www.primariapn.ro/",
+    "domeniu": "primariapn.ro",
+    "lat": 46.9275,
+    "lon": 26.370833333333,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primariapn.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "109.103.187.214",
+    "tara": "RO",
+    "org": "AS9050 Orange Romania S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q685869",
+    "nume": "Făgăraș",
+    "email": "mailto:secretariat@primaria-fagaras.ro",
+    "website": "https://www.primaria-fagaras.ro/",
+    "domeniu": "primaria-fagaras.ro",
+    "lat": 45.842222222222,
+    "lon": 24.971388888889,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.primaria-fagaras.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:176.223.226.105 include:spf.mailjet.com ip4:46.165.232.180 ip4:95.211.2.201 include:_spf.google.com a mx ~all",
+    "mx_ip": "176.223.226.105",
+    "tara": "RO",
+    "org": "AS39756 EASYHOST SRL",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q168057",
+    "nume": "Craiova",
+    "email": "mailto:relatiicupublicul@primariacraiova.ro",
+    "website": "https://primariacraiova.ro/",
+    "domeniu": "primariacraiova.ro",
+    "lat": 44.333333333333,
+    "lon": 23.816666666667,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primariacraiova.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:82.77.65.9 +all",
+    "mx_ip": "82.77.65.9",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q746041",
+    "nume": "Petroșani",
+    "email": "mailto:primarie@primariapetrosani.ro",
+    "website": "https://www.primariapetrosani.ro",
+    "domeniu": "primariapetrosani.ro",
+    "lat": 45.412222222222,
+    "lon": 23.373333333333,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail2.primariapetrosani.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:89.38.233.29 ip4:45.129.67.17 ip4:89.38.233.29 +a +mx +ip4:188.214.142.15 +ip4:93.119.227.201 +ip4:188.214.142.18 ~all",
+    "mx_ip": "91.216.156.178",
+    "tara": "RO",
+    "org": "AS31244 MY SERVER MEDIA SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q624236",
+    "nume": "Blaj",
+    "email": "mailto:primarieblaj@rcnet.ro",
+    "website": "http://www.primariablaj.ro/",
+    "domeniu": "rcnet.ro",
+    "lat": 46.17527778,
+    "lon": 23.91444444,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "rcnet.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:93.113.174.6 include:baldurmx.hosterion.net ip4:92.114.98.31 +a +mx ~all",
+    "mx_ip": "91.188.226.100",
+    "tara": "RO",
+    "org": "AS43927 HOSTERION SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q334874",
+    "nume": "Sighetu Marmației",
+    "email": "mailto:primaria@primariasighet.ro",
+    "website": "https://www.primaria-sighet.ro",
+    "domeniu": "primariasighet.ro",
+    "lat": 47.930944444444,
+    "lon": 23.894694444444,
+    "mx_records": [
+      {
+        "prioritate": 40,
+        "host": "cloudmail04.clausweb.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:85.204.69.253 ip4:93.113.54.142 ip4:85.204.69.249 ip4:85.204.69.192 ip4:86.105.233.120 ip4:86.105.233.26 +a +mx +ip4:86.105.233.24 +ip4:86.105.233.17 ~all",
+    "mx_ip": "185.146.86.222",
+    "tara": "RO",
+    "org": "AS203053 CLAUS WEB srl",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q652838",
+    "nume": "Curtea de Argeș",
+    "email": "mailto:secretariat@primariacurteadearges.ro",
+    "website": "http://www.primariacurteadearges.ro/",
+    "domeniu": "primariacurteadearges.ro",
+    "lat": 45.116666666667,
+    "lon": 24.666666666667,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariacurteadearges-ro.mail.protection.outlook.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "52.101.73.1",
+    "tara": "NL",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  },
+  {
+    "wikidata_id": "Q685857",
+    "nume": "Medgidia",
+    "email": "mailto:office@primaria-medgidia.ro",
+    "website": "https://primaria-medgidia.ro",
+    "domeniu": "primaria-medgidia.ro",
+    "lat": 44.250277777778,
+    "lon": 28.261388888889,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primaria-medgidia.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:193.231.242.80 +ip4:193.231.242.81 +ip4:193.231.242.82 +ip4:193.231.242.83 ~all",
+    "mx_ip": "193.231.242.80",
+    "tara": "RO",
+    "org": "AS31017 GMB Computers SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q187938",
+    "nume": "Pitești",
+    "email": "mailto:primaria@primariapitesti.ro",
+    "website": "https://www.primariapitesti.ro/",
+    "domeniu": "primariapitesti.ro",
+    "lat": 44.866666666667,
+    "lon": 24.883333333333,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariapitesti-ro.mail.protection.outlook.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "52.101.73.11",
+    "tara": "NL",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  },
+  {
+    "wikidata_id": "Q201404",
+    "nume": "Buzău",
+    "email": "mailto:cabinet.primar@primariabuzau.ro",
+    "website": "http://primariabuzau.ro/",
+    "domeniu": "primariabuzau.ro",
+    "lat": 45.151666666667,
+    "lon": 26.816666666667,
+    "mx_records": [
+      {
+        "prioritate": 30,
+        "host": "secondary.primariabuzau.ro"
+      }
+    ],
+    "spf": "v=spf1 +mx +a +ip4:84.232.181.160 +ip4:86.126.95.190/28 +ip4:213.177.27.235 ~all",
+    "mx_ip": "213.177.27.235",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q193890",
+    "nume": "Drobeta-Turnu Severin",
+    "email": "mailto:primaria@primariadrobeta.ro",
+    "website": "https://primariadrobeta.ro/",
+    "domeniu": "primariadrobeta.ro",
+    "lat": 44.636111111111,
+    "lon": 22.655555555556,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx01.whmpanels.com"
+      }
+    ],
+    "spf": "v=spf1 include:relay.romarg.net ip4:136.255.141.86/32 -all",
+    "mx_ip": "89.40.72.225",
+    "tara": "RO",
+    "org": "AS205275 ROMARG SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q79808",
+    "nume": "Constanța",
+    "email": "mailto:primarie@primaria-constanta.ro",
+    "website": "https://www.primaria-constanta.ro/",
+    "domeniu": "primaria-constanta.ro",
+    "lat": 44.21414,
+    "lon": 28.61862,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "primariaconstanta-ro02b.mail.protection.outlook.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "52.101.73.1",
+    "tara": "NL",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  },
+  {
+    "wikidata_id": "Q258981",
+    "nume": "Lugoj",
+    "email": "mailto:contact@primarialugoj.ro",
+    "website": "http://www.primarialugoj.ro",
+    "domeniu": "primarialugoj.ro",
+    "lat": 45.686111111111,
+    "lon": 21.900555555556,
+    "mx_records": [
+      {
+        "prioritate": 1,
+        "host": "mail.primarialugoj.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "92.87.111.13",
+    "tara": "RO",
+    "org": "AS9050 Orange Romania S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q188478",
+    "nume": "Brăila",
+    "email": "mailto:pmb@pmbr.ro",
+    "website": "http://www.primariabraila.ro/",
+    "domeniu": "pmbr.ro",
+    "lat": 45.269166666667,
+    "lon": 27.9575,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "box.pmbr.ro"
+      }
+    ],
+    "spf": "v=spf1 mx -all",
+    "mx_ip": "82.79.133.70",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q550055",
+    "nume": "Săcele",
+    "email": "mailto:primaria@municipiulsacele.ro",
+    "website": "http://www.municipiulsacele.ro/",
+    "domeniu": "municipiulsacele.ro",
+    "lat": 45.6175,
+    "lon": 25.687777777778,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "municipiulsacele.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:89.38.241.66 +ip4:89.38.241.67 +ip4:89.37.143.6 +ip4:89.37.143.13 +ip4:188.213.133.2 +ip4:178.156.230.129 ~all",
+    "mx_ip": "89.38.241.67",
+    "tara": "RO",
+    "org": "AS5606 GTS Telecom SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q754725",
+    "nume": "Carei",
+    "email": "mailto:primariacar@yahoo.com",
+    "website": "http://www.primariacarei.ro/",
+    "domeniu": "yahoo.com",
+    "lat": 47.69,
+    "lon": 22.47,
+    "mx_records": [
+      {
+        "prioritate": 1,
+        "host": "mta6.am0.yahoodns.net"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "98.136.96.75",
+    "tara": "US",
+    "org": "AS36646 Yahoo Holdings Inc.",
+    "provider": "yahoo_us"
+  },
+  {
+    "wikidata_id": "Q335868",
+    "nume": "Bârlad",
+    "email": "mailto:primar@primariabarlad.ro",
+    "website": "http://www.primariabarlad.ro",
+    "domeniu": "primariabarlad.ro",
+    "lat": 46.216666666667,
+    "lon": 27.666666666667,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "fmail.primariabarlad.ro"
+      }
+    ],
+    "spf": "v=spf1 mx ip4:94.177.40.74/32 ip4:188.247.252.76/32 a:fmail.primariabarlad.ro a:76.252.247.188.is.primetelecom.ro include:spf.sendinblue.com -all",
+    "mx_ip": "94.177.40.74",
+    "tara": "RO",
+    "org": "AS39737 Prime Telecom srl",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q754726",
+    "nume": "Drăgășani",
+    "email": "mailto:dragasani@vl.e-adm.ro",
+    "website": "http://www.primariadragasani.ro/",
+    "domeniu": "vl.e-adm.ro",
+    "lat": 44.661111111111,
+    "lon": 24.263888888889,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx2.stsmail.ro"
+      }
+    ],
+    "spf": "v=spf1 mx ip4:193.151.29.160/27 include:stsmail.ro ~all",
+    "mx_ip": "193.151.29.168",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q458422",
+    "nume": "Câmpia Turzii",
+    "email": "mailto:primaria@campiaturzii.ro",
+    "website": "http://www.campiaturzii.ro/",
+    "domeniu": "campiaturzii.ro",
+    "lat": 46.544444444444,
+    "lon": 23.879166666667,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.campiaturzii.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "37.251.149.67",
+    "tara": "RO",
+    "org": "AS34358 Cyber_Folks SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q570213",
+    "nume": "Turnu Măgurele",
+    "email": "mailto:primaria@municipiulturnumagurele.ro",
+    "website": "http://www.municipiulturnumagurele.ro/",
+    "domeniu": "municipiulturnumagurele.ro",
+    "lat": 43.751666666667,
+    "lon": 24.870833333333,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "municipiulturnumagurele.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:185.33.180.137 include:mail.hostingww.com ip4:185.247.61.194 include:_spf.globehosting.net +a +mx +ip4:185.247.61.32 +ip4:185.247.61.33 ~all",
+    "mx_ip": "185.33.180.137",
+    "tara": "DE",
+    "org": "AS196763 Key-Systems GmbH",
+    "provider": "foreign_DE"
+  },
+  {
+    "wikidata_id": "Q185280",
+    "nume": "Baia Mare",
+    "email": "mailto:primar@baiamare.ro",
+    "website": "https://www.baiamare.ro/",
+    "domeniu": "baiamare.ro",
+    "lat": 47.656666666667,
+    "lon": 23.571944444444,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.baiamare.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:185.104.182.35 +a +mx +ip4:185.104.182.79 +ip4:185.104.182.33 +ip4:93.115.113.36 +ip4:93.115.113.46 -all",
+    "mx_ip": "217.10.217.26",
+    "tara": "RO",
+    "org": "AS12302 Vodafone Romania S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q476226",
+    "nume": "Moinești",
+    "email": "mailto:office@moinesti.ro",
+    "website": "https://moinesti.ro/",
+    "domeniu": "moinesti.ro",
+    "lat": 46.484722222222,
+    "lon": 26.496388888889,
+    "mx_records": [
+      {
+        "prioritate": 40,
+        "host": "cloudmail04.clausweb.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "185.146.86.212",
+    "tara": "RO",
+    "org": "AS203053 CLAUS WEB srl",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q192269",
+    "nume": "Vaslui",
+    "email": "mailto:pmv@primariavaslui.ro",
+    "website": "https://www.primariavs.ro/",
+    "domeniu": "primariavaslui.ro",
+    "lat": 46.638333333333,
+    "lon": 27.729166666667,
+    "mx_records": [
+      {
+        "prioritate": 20,
+        "host": "filter20.antispamcloud.com"
+      }
+    ],
+    "spf": "v=spf1 ip4:89.40.196.44 ip4:89.40.196.165 +a +mx +ip4:89.40.196.182 +ip4:89.40.196.173 +include:spf.antispamcloud.com -all",
+    "mx_ip": "149.13.75.27",
+    "tara": "DE",
+    "org": "AS16633 N-able Technologies, Inc.",
+    "provider": "foreign_DE"
+  },
+  {
+    "wikidata_id": "Q145292",
+    "nume": "Zalău",
+    "email": "mailto:primaria@zalausj.ro",
+    "website": "http://www.zalausj.ro/",
+    "domeniu": "zalausj.ro",
+    "lat": 47.191111111111,
+    "lon": 23.057222222222,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.zalausj.ro"
+      }
+    ],
+    "spf": "v=spf1 mx a",
+    "mx_ip": "94.53.210.85",
+    "tara": "RO",
+    "org": "AS48161 NEXTGEN COMMUNICATIONS SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q75634",
+    "nume": "Reșița",
+    "email": "mailto:centru@primariaresita.ro",
+    "website": "http://www.primaria-resita.ro/",
+    "domeniu": "primariaresita.ro",
+    "lat": 45.3,
+    "lon": 21.890277777778,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.primariaresita.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:81.18.72.65 +ip4:81.18.72.68 ~all",
+    "mx_ip": "81.18.72.68",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q303015",
+    "nume": "Fălticeni",
+    "email": "mailto:falticeni@falticeni.ro",
+    "website": "http://www.falticeni.ro/",
+    "domeniu": "falticeni.ro",
+    "lat": 47.4625,
+    "lon": 26.3,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.falticeni.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "109.166.190.122",
+    "tara": "RO",
+    "org": "AS8953 Orange Romania S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q215719",
+    "nume": "Hunedoara",
+    "email": "mailto:info@primariahunedoara.ro",
+    "website": "https://www.primariahunedoara.ro/",
+    "domeniu": "primariahunedoara.ro",
+    "lat": 45.769722222222,
+    "lon": 22.920277777778,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariahunedoara.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:88.198.169.148 +ip4:116.202.251.218 +ip4:88.198.169.136 +ip4:88.198.169.137 ~all",
+    "mx_ip": "88.198.169.148",
+    "tara": "DE",
+    "org": "AS24940 Hetzner Online GmbH",
+    "provider": "foreign_DE"
+  },
+  {
+    "wikidata_id": "Q338066",
+    "nume": "Târgu Secuiesc",
+    "email": "mailto:cabinet@kezdi.ro",
+    "website": "http://www.kezdi.ro/",
+    "domeniu": "kezdi.ro",
+    "lat": 46.0,
+    "lon": 26.1375,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.kezdi.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "46.97.64.146",
+    "tara": "RO",
+    "org": "AS12302 Vodafone Romania S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q204850",
+    "nume": "Deva",
+    "email": "mailto:primar@primariadeva.ro",
+    "website": "http://www.primariadeva.ro",
+    "domeniu": "primariadeva.ro",
+    "lat": 45.871944444444,
+    "lon": 22.911666666667,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "mail.primariadeva.ro"
+      }
+    ],
+    "spf": "v=spf1 mx a ip4:86.126.64.50 -all",
+    "mx_ip": "86.126.64.50",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q178855",
+    "nume": "Botoșani",
+    "email": "mailto:primaria@primariabt.ro",
+    "website": "https://primariabt.ro/",
+    "domeniu": "primariabt.ro",
+    "lat": 47.748611111111,
+    "lon": 26.669444444444,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariabt-ro.mail.protection.outlook.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "52.101.73.4",
+    "tara": "NL",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  },
+  {
+    "wikidata_id": "Q262472",
+    "nume": "Orăștie",
+    "email": "mailto:primaria@orastie.info.ro",
+    "website": "http://www.orastie.info.ro/",
+    "domeniu": "orastie.info.ro",
+    "lat": 45.840277777778,
+    "lon": 23.199444444444,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.orastie.info.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:89.46.7.233 +ip4:185.236.84.123 +ip4:109.101.126.115 include:spf.mxserver.ro ~all",
+    "mx_ip": "185.236.84.123",
+    "tara": "RO",
+    "org": "AS44043 Cyber_Folks SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q572478",
+    "nume": "Reghin",
+    "email": "mailto:office@primariareghin.ro",
+    "website": "http://www.primariareghin.ro/",
+    "domeniu": "primariareghin.ro",
+    "lat": 46.775833333333,
+    "lon": 24.708333333333,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primariareghin.ro"
+      }
+    ],
+    "spf": "v=spf1 a mx ip4:188.27.138.179 ~all",
+    "mx_ip": "188.27.138.179",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q685811",
+    "nume": "Moreni",
+    "email": "mailto:contact@primariamoreni.ro",
+    "website": "https://primariamoreni.ro/",
+    "domeniu": "primariamoreni.ro",
+    "lat": 44.980277777778,
+    "lon": 25.644444444444,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariamoreni.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:31.14.23.171 +a +mx +ip4:188.213.20.34 include:spf.mxserver.ro +ip4:89.44.138.139 +ip4:31.14.23.222 +ip4:176.223.125.100 ~all",
+    "mx_ip": "89.36.131.28",
+    "tara": "RO",
+    "org": "AS44043 Cyber_Folks SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q170996",
+    "nume": "Galați",
+    "email": "mailto:info544@primariagalati.ro",
+    "website": "https://www.primariagalati.ro",
+    "domeniu": "primariagalati.ro",
+    "lat": 45.433611111111,
+    "lon": 28.055277777778,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primariagalati.ro"
+      }
+    ],
+    "spf": "v=spf1 mx a:mail.primariagalati.ro ip4:92.82.177.181 include:_spf.google.com -all",
+    "mx_ip": "92.82.177.181",
+    "tara": "RO",
+    "org": "AS8953 Orange Romania S.A.",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q617624",
+    "nume": "Râmnicu Sărat",
+    "email": "mailto:primarie_rmsarat@yahoo.com",
+    "website": "http://www.primariermsarat.ro/",
+    "domeniu": "yahoo.com",
+    "lat": 45.38,
+    "lon": 27.06,
+    "mx_records": [
+      {
+        "prioritate": 1,
+        "host": "mta6.am0.yahoodns.net"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "98.136.96.91",
+    "tara": "US",
+    "org": "AS36646 Yahoo Holdings Inc.",
+    "provider": "yahoo_us"
+  },
+  {
+    "wikidata_id": "Q652802",
+    "nume": "Câmpulung Moldovenesc",
+    "email": "mailto:primaria@campulungmoldovenesc.ro",
+    "website": "http://www.campulungmoldovenesc.ro/",
+    "domeniu": "campulungmoldovenesc.ro",
+    "lat": 47.530833333333,
+    "lon": 25.551388888889,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx1-eu.emailsecurity.app"
+      }
+    ],
+    "spf": "v=spf1 mx a ip4:85.120.92.29/32 ~all",
+    "mx_ip": "132.164.188.153",
+    "tara": "IE",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "foreign_IE"
+  },
+  {
+    "wikidata_id": "Q273801",
+    "nume": "Dej",
+    "email": "mailto:primaria@dej.ro",
+    "website": "http://www.primariadej.ro/",
+    "domeniu": "dej.ro",
+    "lat": 47.141388888889,
+    "lon": 23.876388888889,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "mail.dej.ro"
+      }
+    ],
+    "spf": "v=spf1 a mx include:spfc50.megamailservers.eu include:verticalresponse.com +ip4:82.208.159.177 -all",
+    "mx_ip": "82.208.159.177",
+    "tara": "RO",
+    "org": "AS12302 Vodafone Romania S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q19660",
+    "nume": "București",
+    "email": "mailto:relatiipublice@pmb.ro",
+    "website": "https://www.pmb.ro/",
+    "domeniu": "pmb.ro",
+    "lat": 44.413361111111,
+    "lon": 26.097777777778,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mailq.pmb.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "91.212.70.7",
+    "tara": "RO",
+    "org": "AS48843 MUNICIPIUL BUCURESTI",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q202357",
+    "nume": "Târgu Jiu",
+    "email": "mailto:primaria.targujiu@xnet.ro",
+    "website": "http://www.targujiu.ro",
+    "domeniu": "xnet.ro",
+    "lat": 45.034166666667,
+    "lon": 23.274722222222,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx1.mydomain.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "91.136.8.41",
+    "tara": "IE",
+    "org": "AS9115 Hostpapa UK Ltd.",
+    "provider": "foreign_IE"
+  },
+  {
+    "wikidata_id": "Q750239",
+    "nume": "Vatra Dornei",
+    "email": "mailto:primaria@vatra-dornei.ro",
+    "website": "http://www.vatra-dornei.ro/",
+    "domeniu": "vatra-dornei.ro",
+    "lat": 47.35,
+    "lon": 25.366666666667,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx.zooku.ro"
+      }
+    ],
+    "spf": "v=spf1 include:myhost.ro -all",
+    "mx_ip": "85.9.45.240",
+    "tara": "RO",
+    "org": "AS5606 GTS Telecom SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q209809",
+    "nume": "Turda",
+    "email": "mailto:contact@primariaturda.ro",
+    "website": "https://primariaturda.ro",
+    "domeniu": "primariaturda.ro",
+    "lat": 46.566666666667,
+    "lon": 23.783333333333,
+    "mx_records": [
+      {
+        "prioritate": 20,
+        "host": "cloudmail02.clausweb.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "185.146.86.222",
+    "tara": "RO",
+    "org": "AS203053 CLAUS WEB srl",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q283104",
+    "nume": "Roșiori de Vede",
+    "email": "mailto:postmaster@primariarosioriidevede.ro",
+    "website": "http://www.rosioridevede.ro/",
+    "domeniu": "primariarosioriidevede.ro",
+    "lat": 44.065006,
+    "lon": 24.9655094,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariarosioriidevede.ro"
+      }
+    ],
+    "spf": "v=spf1 mx a ip4:91.195.28.112 include:spf.mxserver.ro -all",
+    "mx_ip": "91.195.28.112",
+    "tara": "RO",
+    "org": "AS44043 Cyber_Folks SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q83324",
+    "nume": "Sibiu",
+    "email": "mailto:pms@sibiu.ro",
+    "website": "http://www.sibiu.ro/",
+    "domeniu": "sibiu.ro",
+    "lat": 45.8,
+    "lon": 24.15,
+    "mx_records": [
+      {
+        "prioritate": 20,
+        "host": "alt1.aspmx.l.google.com"
+      }
+    ],
+    "spf": "v=spf1 mx ip4:193.186.10.8/32 ip4:139.162.133.171/32 include:_spf.google.com -all",
+    "mx_ip": "172.253.152.26",
+    "tara": "US",
+    "org": "AS15169 Google LLC",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q100188",
+    "nume": "Cluj-Napoca",
+    "email": "mailto:registratura@primariaclujnapoca.ro",
+    "website": "https://primariaclujnapoca.ro/",
+    "domeniu": "primariaclujnapoca.ro",
+    "lat": 46.76891,
+    "lon": 23.59066,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "mx.primariaclujnapoca.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "213.177.9.251",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q173591",
+    "nume": "Arad",
+    "email": "mailto:pma@primariaarad.ro",
+    "website": "http://www.primariaarad.ro",
+    "domeniu": "primariaarad.ro",
+    "lat": 46.166666666667,
+    "lon": 21.316666666667,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.primariaarad.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "213.177.29.174",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q209929",
+    "nume": "Alexandria",
+    "email": "mailto:primalex@alexandria.ro",
+    "website": "http://www.alexandria.ro/",
+    "domeniu": "alexandria.ro",
+    "lat": 43.968611111111,
+    "lon": 25.333333333333,
+    "mx_records": [
+      {
+        "prioritate": 30,
+        "host": "mx03.whmpanels.com"
+      }
+    ],
+    "spf": "v=spf1 include:relay.romarg.net -all",
+    "mx_ip": "89.37.212.17",
+    "tara": "RO",
+    "org": "AS205275 ROMARG SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q543436",
+    "nume": "Onești",
+    "email": "mailto:primarie@onesti.ro",
+    "website": "http://www.onesti.ro/",
+    "domeniu": "onesti.ro",
+    "lat": 46.25,
+    "lon": 26.766666666667,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.onesti.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "86.122.31.45",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q83404",
+    "nume": "Timișoara",
+    "email": "mailto:primariatm@primariatm.ro",
+    "website": "https://www.primariatm.ro/",
+    "domeniu": "primariatm.ro",
+    "lat": 45.759722222222,
+    "lon": 21.23,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "primariatm-ro.mail.protection.outlook.com"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:89.42.116.133 +ip4:213.177.12.119 +ip4:89.36.93.128 +ip4:89.121.224.226 include:spf.protection.outlook.com include:eu.zcsend.net include:one.zoho.eu -all",
+    "mx_ip": "52.101.73.24",
+    "tara": "NL",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  },
+  {
+    "wikidata_id": "Q174665",
+    "nume": "Alba Iulia",
+    "email": "mailto:office@apulum.ro",
+    "website": "http://www.apulum.ro/",
+    "domeniu": "apulum.ro",
+    "lat": 46.076388888889,
+    "lon": 23.572777777778,
+    "mx_records": [
+      {
+        "prioritate": 20,
+        "host": "mx2-eu.emailsecurity.app"
+      }
+    ],
+    "spf": "v=spf1 a mx a:apulum.ro ip4:52.236.20.16/28 ip4:20.223.75.176/28 ip4:20.223.50.128/28 ip4:20.238.157.40/29 ip4:3.64.45.249 ip4:3.67.57.50 ip4:52.166.173.187 ip4:52.174.155.154 ip4:20.123.98.0/24 ip4:193.231.246.10 ip4:193.231.246.20 ip4:193.231.246.32 include:scanscope.net include:spf1.emailsecurity.app -all",
+    "mx_ip": "4.245.183.72",
+    "tara": "IE",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "foreign_IE"
+  },
+  {
+    "wikidata_id": "Q357784",
+    "nume": "Adjud",
+    "email": "mailto:uat@primariaadjud.ro",
+    "website": "http://www.adjud.ro/",
+    "domeniu": "primariaadjud.ro",
+    "lat": 46.1,
+    "lon": 27.179722222222,
+    "mx_records": [
+      {
+        "prioritate": 30,
+        "host": "mx03.whmpanels.com"
+      }
+    ],
+    "spf": "v=spf1 include:relay.romarg.net -all",
+    "mx_ip": "89.40.72.182",
+    "tara": "RO",
+    "org": "AS205275 ROMARG SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q188673",
+    "nume": "Târgoviște",
+    "email": "mailto:primar@pmtgv.ro",
+    "website": "http://www.pmtgv.ro/",
+    "domeniu": "pmtgv.ro",
+    "lat": 44.924444444444,
+    "lon": 25.457222222222,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.pmtgv.ro"
+      }
+    ],
+    "spf": "v=spf1 a mx ip4:93.122.157.106 ~all",
+    "mx_ip": "93.122.157.106",
+    "tara": "RO",
+    "org": "AS8953 Orange Romania S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q193001",
+    "nume": "Sighișoara",
+    "email": "mailto:primaria@sighisoara.org.ro",
+    "website": "https://primariasighisoara.ro/",
+    "domeniu": "sighisoara.org.ro",
+    "lat": 46.216944444444,
+    "lon": 24.791111111111,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "mx01.sobis.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "91.212.23.10",
+    "tara": "RO",
+    "org": "AS48754 SOBIS SOLUTIONS SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q467498",
+    "nume": "Mangalia",
+    "email": "mailto:secretariat@primaria.mangalia.ro",
+    "website": "http://www.mangalia.ro/",
+    "domeniu": "primaria.mangalia.ro",
+    "lat": 43.817152,
+    "lon": 28.58275,
+    "mx_records": [
+      {
+        "prioritate": 20,
+        "host": "mx02.whmpanels.com"
+      }
+    ],
+    "spf": "v=spf1 include:relay.romarg.net -all",
+    "mx_ip": "89.40.72.254",
+    "tara": "RO",
+    "org": "AS205275 ROMARG SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q212561",
+    "nume": "Călărași",
+    "email": "mailto:office@primariacalarasi.ro",
+    "website": "http://www.primariacalarasi.ro",
+    "domeniu": "primariacalarasi.ro",
+    "lat": 44.2,
+    "lon": 27.333333333333,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primariacalarasi.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "89.35.158.2",
+    "tara": "RO",
+    "org": "AS60604 Primaria Municipiului Calarasi",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q192265",
+    "nume": "Focșani",
+    "email": "mailto:primarie@focsani.info",
+    "website": "https://www.focsani.info/",
+    "domeniu": "focsani.info",
+    "lat": 45.699722222222,
+    "lon": 27.179722222222,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx1.mydomain.ro"
+      }
+    ],
+    "spf": "v=spf1 a mx include:spfc50.megamailservers.com include:verticalresponse.com ~all",
+    "mx_ip": "91.136.8.41",
+    "tara": "IE",
+    "org": "AS9115 Hostpapa UK Ltd.",
+    "provider": "foreign_IE"
+  },
+  {
+    "wikidata_id": "Q185332",
+    "nume": "Satu Mare",
+    "email": "mailto:primaria@primariasm.ro",
+    "website": "https://www.primariasm.ro/",
+    "domeniu": "primariasm.ro",
+    "lat": 47.79,
+    "lon": 22.89,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "alt2.aspmx.l.google.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "142.251.127.26",
+    "tara": "DE",
+    "org": "AS15169 Google LLC",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q207074",
+    "nume": "Slatina",
+    "email": "mailto:office@primariaslatina.ro",
+    "website": "http://www.primariaslatina.ro/",
+    "domeniu": "primariaslatina.ro",
+    "lat": 44.429722222222,
+    "lon": 24.364166666667,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "m.primariaslatina.ro"
+      }
+    ],
+    "spf": "v=spf1 a mx a:m.primariaslatina.ro a:mail.primariaslatina.ro ip4:82.77.212.225 ip4:188.27.7.56 ip4:79.118.154.9 ip4:188.27.7.35 -all",
+    "mx_ip": "188.27.7.35",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q202351",
+    "nume": "Giurgiu",
+    "email": "mailto:primarie@primariagiurgiu.ro",
+    "website": "http://www.primariagiurgiu.ro",
+    "domeniu": "primariagiurgiu.ro",
+    "lat": 43.9,
+    "lon": 25.966666666667,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mx.primariagiurgiu.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:136.243.36.55 +a +mx +ip4:146.70.56.162 +ip4:146.70.56.164 +ip4:162.55.89.60 ~all",
+    "mx_ip": "136.243.36.55",
+    "tara": "DE",
+    "org": "AS24940 Hetzner Online GmbH",
+    "provider": "foreign_DE"
+  },
+  {
+    "wikidata_id": "Q374465",
+    "nume": "Mediaș",
+    "email": "mailto:primaria@primariamedias.ro",
+    "website": "http://www.primariamedias.ro/",
+    "domeniu": "primariamedias.ro",
+    "lat": 46.163888888889,
+    "lon": 24.350833333333,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.primariamedias.ro"
+      }
+    ],
+    "spf": "v=spf1 mx -all",
+    "mx_ip": "5.2.238.14",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q679928",
+    "nume": "Urziceni",
+    "email": "mailto:primaria@primaria-urziceni.ro",
+    "website": "https://primaria-urziceni.ro/primarie_urziceni/",
+    "domeniu": "primaria-urziceni.ro",
+    "lat": 44.718055555556,
+    "lon": 26.645277777778,
+    "mx_records": [
+      {
+        "prioritate": 20,
+        "host": "mx02.whmpanels.com"
+      }
+    ],
+    "spf": "v=spf1 include:relay.romarg.net -all",
+    "mx_ip": "89.40.72.155",
+    "tara": "RO",
+    "org": "AS205275 ROMARG SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q202458",
+    "nume": "Roman",
+    "email": "mailto:primar@primariaroman.ro",
+    "website": "https://primariaroman.ro/",
+    "domeniu": "primariaroman.ro",
+    "lat": 46.93,
+    "lon": 26.93,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "mail.primariaroman.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:5.2.249.55 +a +mx +include:hosting.primariaroman.ro ~all",
+    "mx_ip": "5.2.249.55",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q187205",
+    "nume": "Bistrița",
+    "email": "mailto:primaria@primariabistrita.ro",
+    "website": "https://www.primariabistrita.ro/",
+    "domeniu": "primariabistrita.ro",
+    "lat": 47.133333333333,
+    "lon": 24.483333333333,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mailgw.primariabistrita.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "89.41.57.83",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q609044",
+    "nume": "Caracal",
+    "email": "mailto:Office@primariacaracal.ro",
+    "website": "https://www.primariacaracal.ro/",
+    "domeniu": "primariacaracal.ro",
+    "lat": 44.1,
+    "lon": 24.333333333333,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primariacaracal.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "79.119.80.83",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q238696",
+    "nume": "Motru",
+    "email": "mailto:primaria@primariamotru.ro",
+    "website": "http://www.primariamotru.ro/",
+    "domeniu": "primariamotru.ro",
+    "lat": 44.804166666667,
+    "lon": 22.969444444444,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariamotru.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "31.14.56.201",
+    "tara": "RO",
+    "org": "AS203053 CLAUS WEB srl",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q750222",
+    "nume": "Marghita",
+    "email": "mailto:primaria@marghita.ro",
+    "website": "http://www.marghita.ro/",
+    "domeniu": "marghita.ro",
+    "lat": 47.35,
+    "lon": 22.333333333333,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "ALT1.ASPMX.L.GOOGLE.COM"
+      }
+    ],
+    "spf": "v=spf1 ip4:89.42.218.79 ip4:89.42.218.162 include:_spf.google.com ~all",
+    "mx_ip": "172.253.152.27",
+    "tara": "US",
+    "org": "AS15169 Google LLC",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q737188",
+    "nume": "Oltenița",
+    "email": "mailto:contact@primariaoltenita.ro",
+    "website": "http://www.primariaoltenita.ro/",
+    "domeniu": "primariaoltenita.ro",
+    "lat": 44.086388888889,
+    "lon": 26.636388888889,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.primariaoltenita.ro"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:93.115.85.107 +ip4:93.115.85.110 +ip4:188.240.3.215 +include:spf.mxserver.ro +ip4:188.215.251.27 +ip4:93.115.53.40 +ip4:77.81.181.146 +ip4:5.154.231.125 +ip4:93.174.167.210 +ip4:77.81.181.246 +ip4:77.81.181.244 ~all",
+    "mx_ip": "93.115.85.110",
+    "tara": "RO",
+    "org": "AS3223 Voxility LLP",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q652856",
+    "nume": "Calafat",
+    "email": "mailto:primariacalafat@yahoo.com",
+    "website": "http://www.municipiulcalafat.ro/",
+    "domeniu": "yahoo.com",
+    "lat": 43.985833333333,
+    "lon": 22.9575,
+    "mx_records": [
+      {
+        "prioritate": 1,
+        "host": "mta6.am0.yahoodns.net"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "98.136.96.75",
+    "tara": "US",
+    "org": "AS36646 Yahoo Holdings Inc.",
+    "provider": "yahoo_us"
+  },
+  {
+    "wikidata_id": "Q82174",
+    "nume": "Brașov",
+    "email": "mailto:contact@brasovcity.ro",
+    "website": "https://www.brasovcity.ro/",
+    "domeniu": "brasovcity.ro",
+    "lat": 45.652222222222,
+    "lon": 25.610555555556,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx.brasovcity.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "82.77.44.17",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q431347",
+    "nume": "Rădăuți",
+    "email": "mailto:relatiipublice@primariaradauti.ro",
+    "website": "http://www.primariaradauti.ro/",
+    "domeniu": "primariaradauti.ro",
+    "lat": 47.8425,
+    "lon": 25.919166666667,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "spamguard1.mxserver.ro"
+      }
+    ],
+    "spf": "v=spf1 ip4:185.92.195.78 include:spf.mxserver.ro +a +mx ~all",
+    "mx_ip": "89.44.47.105",
+    "tara": "RO",
+    "org": "AS44043 Cyber_Folks SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q496557",
+    "nume": "Gherla",
+    "email": "mailto:primarie_gherla@yahoo.com",
+    "website": "https://gherla.ro",
+    "domeniu": "yahoo.com",
+    "lat": 47.02,
+    "lon": 23.9,
+    "mx_records": [
+      {
+        "prioritate": 1,
+        "host": "mta7.am0.yahoodns.net"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "98.136.96.75",
+    "tara": "US",
+    "org": "AS36646 Yahoo Holdings Inc.",
+    "provider": "yahoo_us"
+  },
+  {
+    "wikidata_id": "Q215723",
+    "nume": "Slobozia",
+    "email": "mailto:office@municipiulslobozia.ro",
+    "website": "https://municipiulslobozia.ro",
+    "domeniu": "municipiulslobozia.ro",
+    "lat": 44.563888888889,
+    "lon": 27.366111111111,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx1.stsmail.ro"
+      }
+    ],
+    "spf": "v=spf1 mx ip4:193.151.29.160/27 include:stsmail.ro ~all",
+    "mx_ip": "193.151.29.169",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q11585",
+    "nume": "Tulcea",
+    "email": "mailto:contact@primariatulcea.ro",
+    "website": "http://www.primaria-tulcea.ro/",
+    "domeniu": "primariatulcea.ro",
+    "lat": 45.1775,
+    "lon": 28.803611111111,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx1-eu.emailsecurity.app"
+      }
+    ],
+    "spf": "v=spf1 include:relay.romarg.net include:spf.scanscope.net include:spf1.emailsecurity.app -all",
+    "mx_ip": "132.164.188.153",
+    "tara": "IE",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "foreign_IE"
+  },
+  {
+    "wikidata_id": "Q390162",
+    "nume": "Huși",
+    "email": "mailto:secretar@primariahusi.ro",
+    "website": "http://www.husi.info/",
+    "domeniu": "primariahusi.ro",
+    "lat": 46.673055555556,
+    "lon": 28.064722222222,
+    "mx_records": [
+      {
+        "prioritate": 2,
+        "host": "multimail.creativmgs.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "5.2.175.203",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q750243",
+    "nume": "Orșova",
+    "email": "mailto:primariaorsova@primariaorsova.ro",
+    "website": "http://www.primariaorsova.ro/",
+    "domeniu": "primariaorsova.ro",
+    "lat": 44.725277777778,
+    "lon": 22.396111111111,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.primariaorsova.ro"
+      }
+    ],
+    "spf": "v=spf1 a mx a:smtp.livehosting.ro ~all",
+    "mx_ip": "89.38.209.22",
+    "tara": "RO",
+    "org": "AS41635 LIVEHOSTING DATACENTER SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q186349",
+    "nume": "Târgu Mureș",
+    "email": "mailto:primaria@tirgumures.ro",
+    "website": "https://tirgumures.ro",
+    "domeniu": "tirgumures.ro",
+    "lat": 46.549722222222,
+    "lon": 24.559722222222,
+    "mx_records": [
+      {
+        "prioritate": 5,
+        "host": "mail.tirgumures.ro"
+      }
+    ],
+    "spf": "v=spf1 include:sendgrid.net +a +mx +ip4:136.243.33.146 +ip4:162.55.15.49 +ip4:193.226.116.172 +ipv4:5.2.178.80 ~all",
+    "mx_ip": "5.2.178.79",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q623099",
+    "nume": "Odorheiu Secuiesc",
+    "email": "mailto:office@odorhei.ro",
+    "website": "https://www.udvarhely.ro",
+    "domeniu": "odorhei.ro",
+    "lat": 46.313888888889,
+    "lon": 25.301666666667,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "odorhei-ro.mail.protection.outlook.com"
+      }
+    ],
+    "spf": "v=spf1 ip4:91.98.133.110 ip4:89.42.41.61 ip4:89.42.41.164 +a +mx +ip4:188.173.1.45 ~all",
+    "mx_ip": "52.101.68.10",
+    "tara": "IE",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  },
+  {
+    "wikidata_id": "Q192758",
+    "nume": "Râmnicu Vâlcea",
+    "email": "mailto:primaria@primariavl.ro",
+    "website": "https://primariavl.ro/",
+    "domeniu": "primariavl.ro",
+    "lat": 45.104722222222,
+    "lon": 24.375555555556,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx1.stsmail.ro"
+      }
+    ],
+    "spf": "v=spf1 mx ip4:193.151.29.160/27 include:stsmail.ro ~all",
+    "mx_ip": "193.151.29.169",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q736296",
+    "nume": "Câmpulung",
+    "email": "mailto:campulung@muscel.ro",
+    "website": "https://www.primariacampulung.ro/",
+    "domeniu": "muscel.ro",
+    "lat": 45.275,
+    "lon": 25.05,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "mail.muscel.ro"
+      }
+    ],
+    "spf": "v=spf1 a mx ip4:188.27.135.211 -all",
+    "mx_ip": "188.27.135.211",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q193420",
+    "nume": "Miercurea Ciuc",
+    "email": "mailto:primaria@miercureaciuc.ro",
+    "website": "http://www.miercureaciuc.ro/",
+    "domeniu": "miercureaciuc.ro",
+    "lat": 46.359444444444,
+    "lon": 25.803888888889,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "miercureaciuc-ro.mail.protection.outlook.com"
+      }
+    ],
+    "spf": "v=spf1 +a +mx +ip4:213.177.9.146 +ip4:213.177.9.147 +ip4:213.177.9.149  include:spf.protection.outlook.com -all",
+    "mx_ip": "52.101.73.30",
+    "tara": "NL",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  },
+  {
+    "wikidata_id": "Q598577",
+    "nume": "Fetești",
+    "email": "mailto:contact@primariafetesti.ro",
+    "website": "http://www.primariafetesti.ro/",
+    "domeniu": "primariafetesti.ro",
+    "lat": 44.415,
+    "lon": 27.823611111111,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "hosting2008221.online.pro"
+      }
+    ],
+    "spf": "v=spf1 mx a ptr ~all",
+    "mx_ip": "46.242.163.112",
+    "tara": "PL",
+    "org": "AS12824 home.pl sp. z o.o.",
+    "provider": "foreign_PL"
+  },
+  {
+    "wikidata_id": "Q546686",
+    "nume": "Tecuci",
+    "email": "mailto:tecuci@gl.e-adm.ro",
+    "website": "http://www.primariatecuci.ro/",
+    "domeniu": "gl.e-adm.ro",
+    "lat": 45.846666666667,
+    "lon": 27.427777777778,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx2.stsmail.ro"
+      }
+    ],
+    "spf": "v=spf1 mx ip4:193.151.29.160/27 include:stsmail.ro ~all",
+    "mx_ip": "193.151.29.167",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q732376",
+    "nume": "Sebeș",
+    "email": "mailto:secretariat@primariasebes.ro",
+    "website": "https://www.primariasebes.ro/",
+    "domeniu": "primariasebes.ro",
+    "lat": 45.954722222222,
+    "lon": 23.57,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mx01.whmpanels.com"
+      }
+    ],
+    "spf": "v=spf1 include:relay.romarg.net -all",
+    "mx_ip": "89.40.72.254",
+    "tara": "RO",
+    "org": "AS205275 ROMARG SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q754724",
+    "nume": "Gheorgheni",
+    "email": "mailto:primaria@gheorgheni.ro",
+    "website": "https://www.gheorgheni.ro",
+    "domeniu": "gheorgheni.ro",
+    "lat": 46.72,
+    "lon": 25.59,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.gheorgheni.ro"
+      }
+    ],
+    "spf": "v=spf1 a mx ip4:82.78.98.77 ip4:86.120.36.3 -all",
+    "mx_ip": "82.78.98.77",
+    "tara": "RO",
+    "org": "AS8708 DIGI ROMANIA S.A.",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q179585",
+    "nume": "Ploiești",
+    "email": "mailto:comunicare@ploiesti.ro",
+    "website": "https://www.ploiesti.ro/",
+    "domeniu": "ploiesti.ro",
+    "lat": 44.941111111111,
+    "lon": 26.0225,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.ploiesti.ro"
+      }
+    ],
+    "spf": "v=spf1 mx ip4:213.177.4.186 -all",
+    "mx_ip": "213.177.4.186",
+    "tara": "RO",
+    "org": "AS31313 Serviciul de Telecomunicatii Speciale",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q93358",
+    "nume": "Oradea",
+    "email": "mailto:primarie@oradea.ro",
+    "website": "https://oradea.ro/",
+    "domeniu": "oradea.ro",
+    "lat": 47.072222222222,
+    "lon": 21.921111111111,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "oradea-ro.mail.protection.outlook.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "52.101.68.25",
+    "tara": "IE",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  },
+  {
+    "wikidata_id": "Q646065",
+    "nume": "Beiuș",
+    "email": "mailto:primaria.beius@cjbihor.ro",
+    "website": "https://www.municipiulbeius.ro",
+    "domeniu": "cjbihor.ro",
+    "lat": 46.65,
+    "lon": 22.35,
+    "mx_records": [
+      {
+        "prioritate": 1,
+        "host": "smtp.google.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "74.125.71.27",
+    "tara": "US",
+    "org": "AS15169 Google LLC",
+    "provider": "google_us"
+  },
+  {
+    "wikidata_id": "Q411080",
+    "nume": "Aiud",
+    "email": "mailto:office@aiud.ro",
+    "website": "http://www.aiud.ro/",
+    "domeniu": "aiud.ro",
+    "lat": 46.310277777778,
+    "lon": 23.716666666667,
+    "mx_records": [
+      {
+        "prioritate": 20,
+        "host": "mx2-eu.emailsecurity.app"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "4.245.183.72",
+    "tara": "IE",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "foreign_IE"
+  },
+  {
+    "wikidata_id": "Q202362",
+    "nume": "Sfântu Gheorghe",
+    "email": "mailto:info@sepsi.ro",
+    "website": "https://www.sfantugheorgheinfo.ro/",
+    "domeniu": "sepsi.ro",
+    "lat": 45.865277777778,
+    "lon": 25.787777777778,
+    "mx_records": [
+      {
+        "prioritate": 10,
+        "host": "mail.sepsi.ro"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "80.96.27.150",
+    "tara": "RO",
+    "org": "AS39531 Alter-NET SRL",
+    "provider": "local_ro"
+  },
+  {
+    "wikidata_id": "Q736305",
+    "nume": "Pașcani",
+    "email": "mailto:office@primariapascani.ro",
+    "website": "https://primariapascani.ro/",
+    "domeniu": "primariapascani.ro",
+    "lat": 47.251944444444,
+    "lon": 26.723055555556,
+    "mx_records": [
+      {
+        "prioritate": 0,
+        "host": "primariapascani-ro.mail.protection.outlook.com"
+      }
+    ],
+    "spf": null,
+    "mx_ip": "52.101.68.15",
+    "tara": "IE",
+    "org": "AS8075 Microsoft Corporation",
+    "provider": "microsoft_us"
+  }
+]

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<title>MXMap Romania</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:sans-serif}#map{width:100vw;height:100vh}
+#legenda{position:absolute;bottom:30px;right:10px;z-index:1000;background:white;padding:12px 16px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.3);font-size:13px;line-height:2}
+#legenda h4{margin-bottom:6px;font-size:14px}
+.dot{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:middle}
+#statistici{position:absolute;top:10px;right:10px;z-index:1000;background:white;padding:10px 14px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.3);font-size:13px;min-width:180px}
+#statistici div{line-height:1.8}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id="legenda">
+<h4>Provider email</h4>
+<div><span class="dot" style="background:#2ecc71"></span>Local RO</div>
+<div><span class="dot" style="background:#EA4335"></span>Google (SUA)</div>
+<div><span class="dot" style="background:#00A4EF"></span>Microsoft (SUA)</div>
+<div><span class="dot" style="background:#6001D2"></span>Yahoo (SUA)</div>
+<div><span class="dot" style="background:#e67e22"></span>Alt provider strain</div>
+<div><span class="dot" style="background:#95a5a6"></span>Necunoscut</div>
+<div><span class="dot" style="background:#d5d5d5"></span>Fara date email</div>
+</div>
+<div id="statistici">
+<h4>Statistici</h4>
+<div id="stats-content">Se incarca...</div>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+var C={local_ro:"#2ecc71",google_us:"#EA4335",microsoft_us:"#00A4EF",yahoo_us:"#6001D2"};
+function getProvider(loc){var p=loc.provider;if(p&&p!=="unknown")return p;if(loc.domeniu&&loc.domeniu.endsWith(".ro")&&loc.mx_records&&loc.mx_records.length){var es=loc.mx_records.some(function(r){return r.host.includes("google")||r.host.includes("outlook")||r.host.includes("yahoo")});if(!es)return"local_ro"}return"unknown"}
+function c(p,s){if(!p&&!s)return"#d5d5d5";if(!p||p==="unknown")return"#95a5a6";if(C[p])return C[p];if(p.startsWith("foreign_"))return"#e67e22";return"#95a5a6"}
+function norm(s){if(!s)return"";s=s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]/g,"");if(s.startsWith("municipiul"))s=s.slice(10);else if(s.startsWith("municipiu"))s=s.slice(9);if(s.startsWith("sectorul"))s="sector"+s.slice(8);return s}
+var m=L.map("map").setView([45.9,24.9],7);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"&copy; OpenStreetMap"}).addTo(m);
+Promise.all([fetch("gadm41_ROU_2.json").then(function(r){return r.json()}),fetch("mxmap_data.json").then(function(r){return r.json()})]).then(function(d){var geojson=d[0],date=d[1];var lookup=new Map();date.forEach(function(l){lookup.set(norm(l.nume),l)});var contor={};date.forEach(function(l){var p=l.provider||"unknown";contor[p]=(contor[p]||0)+1});var cu=date.filter(function(l){return l.domeniu}).length;var srt=Object.entries(contor).sort(function(a,b){return b[1]-a[1]});var h='UAT-uri cu domeniu: <b>'+cu+'</b><br><br>';srt.forEach(function(p){h+='<div><span class="dot" style="background:'+c(p[0],true)+'"></span>'+p[0]+': <b>'+p[1]+'</b> ('+Math.round(p[1]*100/cu)+'%)</div>'});document.getElementById("stats-content").innerHTML=h;L.geoJSON(geojson,{style:function(f){var n=f.properties.NAME_2||f.properties.name||"";var loc=lookup.get(norm(n));return{fillColor:c(loc?getProvider(loc):null,!!(loc&&loc.domeniu)),fillOpacity:0.75,color:"#555",weight:0.5}},onEachFeature:function(f,l){var n=f.properties.NAME_2||f.properties.name||"";var loc=lookup.get(norm(n));l.on("mouseover",function(){l.setStyle({weight:2,color:"#000"})});l.on("mouseout",function(){l.setStyle({weight:0.5,color:"#555"})});if(loc){var mx=loc.mx_records&&loc.mx_records.length?loc.mx_records.map(function(r){return r.prioritate+" "+r.host}).join("<br>"):"—";l.bindPopup("<b>"+loc.nume+"</b><br><b>Domeniu:</b> "+(loc.domeniu||"—")+"<br><b>Email:</b> "+(loc.email||"—")+"<br><b>MX:</b> "+mx+"<br><b>SPF:</b> "+(loc.spf||"—")+"<br><b>IP:</b> "+(loc.mx_ip||"—")+"<br><b>Tara:</b> "+(loc.tara||"—")+"<br><b>Org:</b> "+(loc.org||"—")+"<br><b>Provider:</b> "+getProvider(loc))}else{l.bindPopup("<b>"+n+"</b><br>Fara date email")}}}).addTo(m)}).catch(function(){document.getElementById("stats-content").textContent="Eroare"});
+</script>
+</body>
+</html>

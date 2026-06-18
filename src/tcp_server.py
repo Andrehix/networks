@@ -1,25 +1,22 @@
-# TCP Server
 import socket
-import logging
-import time
 
-logging.basicConfig(format = u'[LINE:%(lineno)d]# %(levelname)-8s [%(asctime)s]  %(message)s', level = logging.NOTSET)
-
-sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP)
-
-port = 10000
-adresa = '0.0.0.0'
-server_address = (adresa, port)
-sock.bind(server_address)
-logging.info("Serverul a pornit pe %s si portnul portul %d", adresa, port)
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+sock.bind(('0.0.0.0', 10000))
 sock.listen(5)
+print("Server asculta pe portul 10000")
+
 while True:
-    logging.info('Asteptam conexiui...')
-    conexiune, address = sock.accept()
-    logging.info("Handshake cu %s", address)
-    time.sleep(2)
-    data = conexiune.recv(1024)
-    logging.info('Content primit: "%s"', data)
-    conexiune.send(b"Server a primit mesajul: " + data)
-    conexiune.close()
-sock.close()
+    conn, addr = sock.accept()
+    print(f"Conectat: {addr}")
+    while True:
+        data = conn.recv(1024)
+        if not data:
+            break
+        msg = data.decode()
+        print(f"Primit: {msg}")
+        raspuns = f"Server a primit: {msg}"
+        conn.send(raspuns.encode())
+    conn.close()
+    print("Deconectat")
+

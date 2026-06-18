@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  dns-server:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: dns_server
+    restart: unless-stopped
+    ports:
+      - "53:53/udp"
+      - "8080:8080"
+    volumes:
+      - ./src:/app
+      - ./data:/data
+    working_dir: /app
+    command: python3 dns_server.py
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  nginx:
+    image: nginx:alpine
+    container_name: dns_nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/certs:/etc/nginx/certs:ro
+    depends_on:
+      - dns-server
+
+networks:
+  default:
+    name: dns_adblocker_net
